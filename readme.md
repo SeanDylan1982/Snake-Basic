@@ -1,5 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0eeb869e-c6af-41ed-9e53-15b63d6c31d5/deploy-status)](https://app.netlify.com/sites/snake-basic/deploys)
 
+https://snake-basic.netlify.app/
+
 # Snake | Basic
 The game Snake implemented with functional style in JavaScript without libraries. Interfaces for browsers and terminals.
 
