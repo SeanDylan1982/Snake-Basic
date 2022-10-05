@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: #1a1a1a;
+  text-align: center;
+  color: #f1f1f1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h4 {
+  position: absolute;
+  top: 5%;
+  left: 44%;
+  font-size: 2rem;
+  text-align: center;
+  color: #f1f1f1;
+  display: fixed;
+  justify-content: center;
+  align-items: center;
+}
